@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="do_you_want_to_lock">Do you want to lock?</string>
+    <string name="ano">Ano</string>
+    <string name="ne">Ne</string>
+    <string name="nevim">Nevim</string>
+</resources>
